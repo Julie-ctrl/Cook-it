@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto|Unna&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/cards.css);
+
+h1 ,h2 ,h3 {font-family: "Roboto"; 
+font-weight: bold;}
+
+p{font-family: "Unna";
+font-size: 22px;
+margin-bottom: 20px;}
+
+body{margin: 0px; 
+padding-top: 0px;}
